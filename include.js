@@ -1,6 +1,12 @@
 let cards = [
   //  Add your card in this section
-
+  
+    {
+    artName: "Willy loader",
+    pageLink: "./Art/Songiso/html.html",
+    author: "Songiso",
+    githubLink: "https://github.com/Songiso",
+  },
   {
     artName: "Pikachu",
     pageLink: "./Art/shahina/index.html",
